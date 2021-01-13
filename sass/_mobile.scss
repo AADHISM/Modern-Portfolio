@@ -8,6 +8,10 @@
 
 // Tablets & Small Laptops
 @include mediaMd {
+  html {
+    font-size: 62.5%;
+  }
+
   main {
     align-items: center;
     text-align: center;
